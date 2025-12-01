@@ -17,6 +17,7 @@
 		18644AC72EDDB28C00411E4F /* githubTest33UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18644AC62EDDB28C00411E4F /* githubTest33UITests.swift */; };
 		18644AC92EDDB28C00411E4F /* githubTest33UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18644AC82EDDB28C00411E4F /* githubTest33UITestsLaunchTests.swift */; };
 		18644AD62EDDB31100411E4F /* LoginVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18644AD52EDDB31100411E4F /* LoginVC.swift */; };
+		18644AD82EDDB49100411E4F /* SignUpVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 18644AD72EDDB49100411E4F /* SignUpVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		18644AC62EDDB28C00411E4F /* githubTest33UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubTest33UITests.swift; sourceTree = "<group>"; };
 		18644AC82EDDB28C00411E4F /* githubTest33UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = githubTest33UITestsLaunchTests.swift; sourceTree = "<group>"; };
 		18644AD52EDDB31100411E4F /* LoginVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginVC.swift; sourceTree = "<group>"; };
+		18644AD72EDDB49100411E4F /* SignUpVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -105,6 +107,7 @@
 				18644AA72EDDB28900411E4F /* SceneDelegate.swift */,
 				18644AA92EDDB28900411E4F /* ViewController.swift */,
 				18644AD52EDDB31100411E4F /* LoginVC.swift */,
+				18644AD72EDDB49100411E4F /* SignUpVC.swift */,
 				18644AAB2EDDB28900411E4F /* Main.storyboard */,
 				18644AAE2EDDB28B00411E4F /* Assets.xcassets */,
 				18644AB02EDDB28B00411E4F /* LaunchScreen.storyboard */,
@@ -264,6 +267,7 @@
 				18644AAA2EDDB28900411E4F /* ViewController.swift in Sources */,
 				18644AA62EDDB28900411E4F /* AppDelegate.swift in Sources */,
 				18644AD62EDDB31100411E4F /* LoginVC.swift in Sources */,
+				18644AD82EDDB49100411E4F /* SignUpVC.swift in Sources */,
 				18644AA82EDDB28900411E4F /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
